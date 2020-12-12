@@ -7,7 +7,11 @@ import tensorflow_datasets as tfds
 print(tf.__version__)
 
 (ds_train, ds_test), ds_info = tfds.load(
-    'kmnist', split=['train', 'test'], shuffle_files=True, as_supervised=True, with_info=True)
+                                        'kmnist',
+                                        split=['train', 'test'],
+                                        shuffle_files=True,
+                                        as_supervised=True,
+                                        with_info=True)
 
 
 def normalize_img(image, label):
