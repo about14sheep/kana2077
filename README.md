@@ -1,5 +1,5 @@
 # kana2077
-An A.I. powered browser extension to find kanji and show their respected hiragana in a cyberpunk theme
+A.I. powered browser extension to find kanji and show their respective hiragana/translation in a cyberpunk theme
 
 
 ### Model
