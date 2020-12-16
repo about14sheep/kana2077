@@ -4,7 +4,7 @@ A.I. powered browser extension to find kanji and show their respective hiragana/
 
 ### Model
 
- - The a.i. model is trained off the kmnist dataset to detect japanese characters
+ - The a.i. model is trained off the kmnist dataset, using tensorflow and keras api, to detect japanese characters
 
 ### App
 
